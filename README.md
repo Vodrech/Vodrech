@@ -1,7 +1,7 @@
 ### Hi there, I'm Vidar 👋
 
 ## I'm a Developer and Tester!
-- 🔭 I’m currently working on a [my repo WorkApplier][workapplier]!
+- 🔭 I’m currently working on a [WorkApplier][workapplier]!
 - 🌱 I’m developing in Python, but also code in Java and a bit of C# and C++.
 - ⚡ 2020 Goals: Learn more, minimize deficiency, be happy!
 
