@@ -1,8 +1,8 @@
 ### Hi there, I'm Vidar 👋
 
-## I'm a Developer and Tester!
-- 🔭 I’m currently working on a [WorkApplier][workapplier]!
-- 🌱 I’m developing in Python, but also code in Java and a bit of C# and C++.
+## I'm a Developer, Tester and junior Devops!
+- 🔭 I’m mostly spending time studying but my most recent repo is [WorkApplier][workapplier]!
+- 🌱 My techstack is mostly: Java and Python, with a small bit of C# and C++.
 - ⚡ 2021 Goals: Learn more, minimize deficiency, be happy!
 
 ### Connect with me:
