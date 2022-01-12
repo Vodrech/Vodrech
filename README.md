@@ -3,7 +3,7 @@
 ## I'm a Developer, Tester and junior Devops!
 - 🔭 I’m mostly spending time studying but my most recent repo is [WorkApplier][workapplier]!
 - 🌱 My techstack is mostly: Java and Python, with a small bit of C# and C++.
-- ⚡ 2021 Goals: Learn more, minimize deficiency, be happy!
+- ⚡ 2022 Goals: Learn more, minimize deficiency, be happy!
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
