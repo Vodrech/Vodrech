@@ -1,12 +1,27 @@
 ### Hi there, I'm Vidar 👋
+- 🔭 Learning: Currently studying Rust.
+- 🌱 Goals: Trying to optimize my working habits  
+- ⚡ Motivation: Learn more, minimize deficiency, be happy!
 
-## I'm a Developer, Tester and junior Devops!
-- 🔭 I’m mostly spending time studying but my most recent repo is [WorkApplier][workapplier]!
-- 🌱 My techstack is mostly: Java and Python, with a small bit of C# and C++.
-- ⚡ 2022 Goals: Learn more, minimize deficiency, be happy!
+Most recent work:
+[WorkApplier][workapplier]!
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Summary
+- Occupation: Test Automation Engineer
+- Current Interest: _*Rust*_ 🦀 && _*WASM*_ 🌐
+- Favorite IDE/PDE: nvim
+- Keyboard & Layout: Kyria rev v2 & COLEMAK
+- Favorite syntax: yaml
+- Other Areas: Developer and Junior Devops
 
-[linkedin]: https://www.linkedin.com/in/vidar-zingmark-29a353186/
+## Techstack
+### Languages
+Python 🐍 | Java ☕ | Javascript 🚀 |
+--- | --- | --- 
+Groovy 🪠 | Rust 🦀 | Lua 🌑 |
+
+### CI & CD
+Jenkins | Gitlab | Github |
+--- | --- | --- 
+
 [workapplier]: https://github.com/Vodrech/WorkApplier
