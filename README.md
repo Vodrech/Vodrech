@@ -24,4 +24,8 @@ Groovy 🪠 | Rust 🦀 | Lua 🌑 |
 Jenkins | Gitlab | Github |
 --- | --- | --- 
 
+### Computing
+Docker | Kubernetes | Ansible |
+--- | --- | ---
+
 [workapplier]: https://github.com/Vodrech/WorkApplier
